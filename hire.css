@@ -1,0 +1,47 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: chocolate;
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+section{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    background-color: #f6f2ee;
+    padding: 50px;
+    
+}
+
+.input-style{
+    padding: 13px;
+    width: 230px;
+    border: none;
+}
+
+section textarea {
+    padding: 13px;
+    width: 230px;
+    border: none;
+}
+
+#section-button {
+    background-color: #f0784c;
+    padding: 15px 30px;
+    border: none;
+    color: white;
+    font-size: 17px;
+    border-radius: 7px;
+}
+#contact{
+    padding-top: 100px;
+}
+
+
+
